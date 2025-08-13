@@ -1,16 +1,29 @@
-## Hi there 👋
+# livedoc-profile
 
-<!--
-**TejasDotExe/TejasDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Tejas—a passionate developer and cyber security enthusiast currently pursuing my MCA at SIES College of Management Studies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Java (Spring)
+- JavaScript (React)
+- C# (ASP.NET)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Favorite Open Source Project
+- [LiveDoc](https://github.com/TejasDotExe/livedoc)
+
+## 📚 Learning & Achievements
+- 300+ day learning streak on LinkedIn
+- Solving coding challenges on [LeetCode](https://leetcode.com/u/TejasDotExe/)
+- 1600+ rating at chess.com
+
+## 🎮 Hobbies
+- Video games
+- Chess
+- Cricket
+
+## 📫 Connect with Me
+- [Personal Website](https://tejas-chodankar.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/tejaschodankar18/)
+
+---
+
+Let's connect and build something awesome!
