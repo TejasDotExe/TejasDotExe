@@ -1,5 +1,3 @@
-# livedoc-profile
-
 Hi, I'm Tejas—a passionate developer and cyber security enthusiast currently pursuing my MCA at SIES College of Management Studies.
 
 ## 💻 Tech Stack
